@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Easy Manage",
+    "slug": "MyApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/logo.png",
+    "splash": {
+      "image": "./app/assets/logo1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f7cf79"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.easymanage.ss",
+      "versionCode": 2
+    }
+  
+  }
+}
