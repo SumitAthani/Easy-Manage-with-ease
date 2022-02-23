@@ -23,4 +23,4 @@
 
 
 
-[<h3>Do check the react native version of the App</h3>](https://github.com/SumitAthani/Manage)
+[<h3>Do check the Flutter version of the App</h3>](https://github.com/SumitAthani/Manage)
